@@ -1,3 +1,7 @@
+# 黑客与安全资源合集 · Awesome Hacking
+
+> 中文说明：这是一份面向黑客、渗透测试人员和安全研究者的 awesome 清单合集，它本身不直接列工具，而是按安全方向汇总了各个精选清单仓库；想学某个方向时，先按下面的分类找到对应的清单仓库，再进去细看。
+
 ![Awesome Hacking](awesome_hacking.webp)
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
@@ -18,6 +22,8 @@ Your [contributions](contributing.md) are always welcome !
 </div>
 
 ## Awesome Repositories
+
+> 中文注释：本节是主清单，按安全领域分类收录的 awesome 系列仓库，比如安卓安全、漏洞赏金、CTF、渗透测试、恶意软件分析等，想找某个方向的资料先从这里翻。
 
 Repository | Description
 ---- | ----
@@ -71,6 +77,8 @@ Repository | Description
 
 ## Other Useful Repositories
 
+> 中文注释：本节是补充清单，收录主清单之外的实用仓库，比如密码学、取证、漏洞环境、速查表、攻击载荷等，查资料时可以配合主清单一起用。
+
 Repository | Description
 ---- | ----
 [AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) | Curated list of AI security resources
@@ -110,10 +118,14 @@ Repository | Description
 
 ## Need More ?
 
+> 中文注释：本节是作者的社交媒体关注入口，关注后可以每天收到安全相关仓库的更新推荐。
+
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
 ## Contributions
+
+> 中文注释：本节指向贡献指南，想往清单里加新仓库或反馈失效链接时，按 contributing.md 里的办法提交。
 
 Please have a look at [contributing.md](contributing.md)

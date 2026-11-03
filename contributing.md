@@ -1,3 +1,5 @@
+> 中文说明：这是本清单的投稿指南：想往清单里加新仓库，要先改 README.md 并保持字母顺序，再提交 Pull Request；发现清单里的链接打不开，也可以在这里反馈。
+
 # Contribution Guidelines
 
 Please follow the instructions below to make a contribution.
